@@ -4,22 +4,22 @@
 <!--                    HERO BANNER                         -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a0533,100:0d1117&height=200&section=header&text=ANSH&fontSize=90&fontColor=f5c518&fontAlignY=38&desc=Building%20Brands%2C%20Stories%20%26%20Digital%20Experiences.&descSize=18&descAlignY=62&descColor=a0a0b8&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0f,50:1a0533,100:0d1117&amp;height=200&amp;section=header&amp;text=ANSH&amp;fontSize=90&amp;fontColor=f5c518&amp;fontAlignY=38&amp;desc=Building%20Brands%2C%20Stories%20%26%20Digital%20Experiences.&amp;descSize=18&amp;descAlignY=62&amp;descColor=a0a0b8&amp;animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=F5C518&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;Creative+Technologist+%E2%9C%A8;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Brand+Builder+%F0%9F%94%A5;Content+Creator+%F0%9F%8E%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=F5C518&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=600&amp;height=50&amp;lines=Full+Stack+Developer+%F0%9F%9A%80;Creative+Technologist+%E2%9C%A8;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Brand+Builder+%F0%9F%94%A5;Content+Creator+%F0%9F%8E%AC" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- PROFILE BADGES -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ux-dice&label=PROFILE+VIEWS&color=f5c518&style=flat-square&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=ux-dice&amp;label=PROFILE+VIEWS&amp;color=f5c518&amp;style=flat-square&amp;labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-Building%20Something%20Big-f5c518?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/STATUS-Building%20Something%20Big-f5c518?style=flat-square&amp;labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/OPEN%20TO-Collabs%20%26%20Opportunities-blueviolet?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-Collabs%20%26%20Opportunities-blueviolet?style=flat-square&amp;labelColor=0d1117" />
 </p>
 
 </div>
@@ -256,42 +256,31 @@ A full-stack social platform for Indian college students — built with a polish
 
 <!-- Stats Row -->
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ux-dice&show_icons=true&theme=transparent&bg_color=0d1117&title_color=f5c518&icon_color=f5c518&text_color=a0a0b8&border_color=f5c51830&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ux-dice&amp;show_icons=true&amp;theme=transparent&amp;bg_color=0d1117&amp;title_color=f5c518&amp;icon_color=f5c518&amp;text_color=a0a0b8&amp;border_color=f5c51830&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=false&amp;rank_icon=github" />
   &nbsp;
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ux-dice&theme=transparent&bg_color=0d1117&title_color=f5c518&text_color=a0a0b8&border_color=f5c51830&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ux-dice&amp;theme=transparent&amp;bg_color=0d1117&amp;title_color=f5c518&amp;text_color=a0a0b8&amp;border_color=f5c51830&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" />
 </div>
 
 <br/>
 
 <!-- Streak -->
 <div align="center">
-  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=ux-dice&theme=transparent&background=0d1117&ring=f5c518&fire=f5c518&currStreakLabel=f5c518&sideLabels=a0a0b8&currStreakNum=ffffff&sideNums=ffffff&dates=666680&border=f5c51830" />
+  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=ux-dice&amp;theme=transparent&amp;background=0d1117&amp;ring=f5c518&amp;fire=f5c518&amp;currStreakLabel=f5c518&amp;sideLabels=a0a0b8&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=666680&amp;border=f5c51830" />
 </div>
 
 <br/>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ux-dice&bg_color=0d1117&color=f5c518&line=f5c51880&point=f5c518&area=true&area_color=f5c51820&border_color=f5c51830&title_color=f5c518&hide_border=false" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ux-dice&amp;bg_color=0d1117&amp;color=f5c518&amp;line=f5c51880&amp;point=f5c518&amp;area=true&amp;area_color=f5c51820&amp;border_color=f5c51830&amp;title_color=f5c518&amp;hide_border=false" />
 </div>
 
 <br/>
 
 <!-- Trophies -->
 <div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=ux-dice&theme=radical&no-frame=false&no-bg=true&margin-w=6&column=7" />
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=ux-dice&amp;theme=radical&amp;no-frame=false&amp;no-bg=true&amp;margin-w=6&amp;column=4" />
 </div>
-
-<br/>
-
-<!-- Contribution Snake -->
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/ux-dice/ux-dice/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> **Note:** To activate the contribution snake, add a GitHub Actions workflow to your profile repo. [Here's the guide →](https://github.com/Platane/snk)
 
 ---
 
@@ -341,19 +330,19 @@ ROADMAP  ───────────────────────�
 <p><i>Let's build something remarkable</i></p>
 
 <a href="https://www.linkedin.com/in/ansh-ansh-7b09853b1">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="https://instagram.com/astron_dice">
-  <img src="https://img.shields.io/badge/Instagram-Follow%20the%20journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Instagram-Follow%20the%20journey-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="mailto:anshkumardice@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20message-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20message-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="https://github.com/ux-dice">
-  <img src="https://img.shields.io/badge/GitHub-See%20my%20work-f5c518?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub-See%20my%20work-f5c518?style=for-the-badge&amp;logo=github&amp;logoColor=black&amp;labelColor=0d1117" />
 </a>
 
 <br/><br/>
@@ -368,7 +357,7 @@ ROADMAP  ───────────────────────�
 <!--                   CINEMATIC FOOTER                     -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0a0a0f&height=120&section=footer&text=Thanks%20for%20visiting%20my%20digital%20universe.&fontSize=18&fontColor=a0a0b8&fontAlignY=50&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a0533,100:0a0a0f&amp;height=120&amp;section=footer&amp;text=Thanks%20for%20visiting%20my%20digital%20universe.&amp;fontSize=18&amp;fontColor=a0a0b8&amp;fontAlignY=50&amp;animation=fadeIn" />
 
 <div align="center">
 
@@ -382,6 +371,6 @@ ROADMAP  ───────────────────────�
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=footer&reversal=false&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=2&amp;section=footer&amp;reversal=false&amp;animation=fadeIn" width="60%"/>
 
 </div>
