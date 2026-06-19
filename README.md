@@ -350,11 +350,8 @@ I'm actively looking for freelance work, internships, and startup collabs where 
 <br/>
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ux-dice/ux-dice/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ux-dice/ux-dice/output/github-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ux-dice/ux-dice/output/github-snake-dark.svg">
-</picture>
+![Snake Animation](https://raw.githubusercontent.com/ux-dice/ux-dice/output/github-snake.svg)
+
 ## 📊 GitHub Metrics
 
 ![Metrics](https://raw.githubusercontent.com/ux-dice/ux-dice/main/github-metrics.svg)
