@@ -348,8 +348,13 @@ I'm actively looking for freelance work, internships, and startup collabs where 
 </picture>
 
 <br/>
+## 🐍 Contribution Snake
 
-<sub>⚙️ Requires one-time setup — see <a href="#-setup-instructions-for-dynamic-widgets">Setup Instructions</a> below. Won't render until the workflow runs once.</sub>
+![Snake Animation](https://raw.githubusercontent.com/ux-dice/ux-dice/output/github-snake-dark.svg)
+
+## 📊 GitHub Metrics
+
+![Metrics](https://raw.githubusercontent.com/ux-dice/ux-dice/main/github-metrics.svg)
 
 </div>
 
